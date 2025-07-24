@@ -90,5 +90,5 @@ editor-fotos-streamlit/
 
 ## 📬 Contato
 
-Gleysson Bettin – [LinkedIn](hhttps://br.linkedin.com/in/gleyssonbettin)  
+Gleysson Bettin – hhttps://br.linkedin.com/in/gleyssonbettin
 Projeto acadêmico para a disciplina de **Visão Computacional / Inteligência Artificial**
