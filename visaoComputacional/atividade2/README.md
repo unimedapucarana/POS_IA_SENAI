@@ -36,7 +36,7 @@ A aplicação deve permitir que o usuário envie uma imagem (upload) ou capture 
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/editor-fotos-streamlit.git
+git clone https://github.com/unimedapucarana/POS_IA_SENAI.git
 cd editor-fotos-streamlit
 ```
 
