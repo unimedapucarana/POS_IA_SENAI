@@ -37,7 +37,8 @@ A aplicação deve permitir que o usuário envie uma imagem (upload) ou capture 
 
 ```bash
 git clone https://github.com/unimedapucarana/POS_IA_SENAI.git
-cd editor-fotos-streamlit
+cd visaoComputacional
+cd atividade2
 ```
 
 ### 2. Crie e ative o ambiente virtual
